@@ -1,0 +1,57 @@
+{
+    "Apple Internal Keyboard / Trackpad": [
+        {
+            "Product ID": "0x0274",
+            "Vendor ID": "0x05ac (Apple Inc.)",
+            "Version": "6.24",
+            "Serial Number": "D3H75231141GHMFA85KF",
+            "Speed": "Up to 12 Mb/sec",
+            "Manufacturer": "Apple Inc.",
+            "Location ID": "0x14400000 / 4",
+            "Current Available (mA)": "500",
+            "Current Required (mA)": "500",
+            "Extra Operating Current (mA)": "0",
+            "Built-In": "Yes"
+        }
+    ],
+    "Bluetooth USB Host Controller": [
+        {
+            "Product ID": "0x8290",
+            "Vendor ID": "0x05ac (Apple Inc.)",
+            "Version": "1.61",
+            "Speed": "Up to 12 Mb/sec",
+            "Manufacturer": "Broadcom Corp.",
+            "Location ID": "0x14300000 / 5",
+            "Current Available (mA)": "500",
+            "Current Required (mA)": "0",
+            "Extra Operating Current (mA)": "0",
+            "Built-In": "Yes"
+        }
+    ],
+    "Apple USB Ethernet Adapter": [
+        {
+            "Product ID": "0x1402",
+            "Vendor ID": "0x05ac (Apple Inc.)",
+            "Version": "0.01",
+            "Serial Number": "427D0F",
+            "Speed": "Up to 480 Mb/sec",
+            "Manufacturer": "Apple Inc.      ",
+            "Location ID": "0x14200000 / 9",
+            "Current Available (mA)": "500",
+            "Current Required (mA)": "250",
+            "Extra Operating Current (mA)": "0"
+        },
+        {
+            "Product ID": "0x1402",
+            "Vendor ID": "0x05ac (Apple Inc.)",
+            "Version": "0.01",
+            "Serial Number": "496276",
+            "Speed": "Up to 480 Mb/sec",
+            "Manufacturer": "Apple Inc.      ",
+            "Location ID": "0x14100000 / 7",
+            "Current Available (mA)": "500",
+            "Current Required (mA)": "250",
+            "Extra Operating Current (mA)": "0"
+        }
+    ]
+}
