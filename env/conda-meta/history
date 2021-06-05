@@ -1,0 +1,19 @@
+==> 2021-06-05 08:43:41 <==
+# cmd: /Users/lu.pengfei5/anaconda3/bin/conda create -p /Volumes/Hub/GitHub/Python/env -y python=3.7
+# conda version: 4.7.10
++defaults::ca-certificates-2021.5.25-hecd8cb5_1
++defaults::certifi-2021.5.30-py37hecd8cb5_0
++defaults::libcxx-10.0.0-1
++defaults::libffi-3.3-hb1e8313_2
++defaults::ncurses-6.2-h0a44026_1
++defaults::openssl-1.1.1k-h9ed2024_0
++defaults::pip-21.1.1-py37hecd8cb5_0
++defaults::python-3.7.10-h88f2d9e_0
++defaults::readline-8.1-h9ed2024_0
++defaults::setuptools-52.0.0-py37hecd8cb5_0
++defaults::sqlite-3.35.4-hce871da_0
++defaults::tk-8.6.10-hb0a8c7a_0
++defaults::wheel-0.36.2-pyhd3eb1b0_0
++defaults::xz-5.2.5-h1de35cc_0
++defaults::zlib-1.2.11-h1de35cc_3
+# update specs: ['python=3.7']
